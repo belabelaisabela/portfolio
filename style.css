@@ -14,10 +14,11 @@ body {
     color: white;
     text-align: left;
     margin-left: 13px;
+    margin-top: 8px;
 }
 header {
     background-color: #183356;
-    height: 80px;
+    height: 90px;
 }
 .secao4-div-1{
     display: inline-block;
@@ -37,4 +38,17 @@ header {
     z-index: 1;
     box-shadow: 2px 2px 16px 0px rgb(255, 255, 255);
     cursor: pointer;
+}
+.logo {
+    width: 4%;
+    border-radius: 50px;
+    border: 1px solid white;
+    margin-top: 5px;
+}
+.logo:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    box-shadow: 2px 2px 16px 0px rgb(255, 255, 255);
+    cursor: pointer;
+    transition: all .5s ease;
 }
