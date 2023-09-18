@@ -16,7 +16,7 @@
  
 </div>
 
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47ij7e4rketxmtakxmkt.png" alt="screenshot site" >
+  <img src="images/tudoo.PNG" alt="screenshot site" >
 
 
 Objetivos:
@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 O layout da aplicação está disponível no GitHub Pages:
 
-<a href="https://belabelaisabela.github.io/portfolio/>
+<a href="https://belabelaisabela.github.io/portfolio/">
 </a>
 
 ## 🚀 Como executar o projeto
@@ -62,13 +62,12 @@ Frontend
 ### Autor
 ---
 
-<a href="https://www.linkedin.com/in/fabioduartebr">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/4038636?v=4" width="100px;" alt=""/>
+<a href="https://www.linkedin.com/in/isabela-gualberto-7b640b286/">
  <br />
- <sub><b>Isabela Gualberto</b></sub></a> <a href="https://www.linkedin.com/in/fabioduartebr" title="Rocketseat">🚀</a>
+ <sub><b>Isabela Gualberto</b></sub></a> <a href="https://www.linkedin.com/in/isabela-gualberto-7b640b286/" title="Rocketseat">🚀</a>
 
 
 Feito com ❤️ por Isabela Gualberto 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fábio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioduartebr)](https://www.linkedin.com/in/fabioduartebr) 
-[![Gmail Badge](https://img.shields.io/badge/-fabio.ivi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.ivi@gmail.com)](mailto:fabio.ivi@gmail.com)
+[![Linkedin Badge]](https://www.linkedin.com/in/isabela-gualberto-7b640b286/) 
+[![Gmail Badge]](isabelagualberto7@gmail.com)
