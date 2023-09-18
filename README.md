@@ -16,7 +16,7 @@
  
 </div>
 
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47ij7e4rketxmtakxmkt.png" alt="screenshot site" >
+  <img src="images/tudoo.PNG" alt="screenshot site" >
 
 
 Objetivos:
